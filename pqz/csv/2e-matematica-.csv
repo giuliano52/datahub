@@ -1,0 +1,87 @@
+correct_answer;difficult_level;id;if_correct;if_wrong;question;response_type;tags;wrong_answer
+105;50;;;;"Luca vuole comprare una scrivania che costa CENTOCINQUE euro";options_4;;150|1005|501
+39;50;;;;"Gianna vuole comprare una torta che costa TRENTANOVE euro";options_4;;309|390|3,90
+30+14;50;;;;"La maestra chiede di sommare 3 decine e 14 unità.
+Con quale operazione puoi rispondere alla maestra?";options_3;;3+14|3+10+14
+8;50;;;;"Alle nove del mattino un termometro segnava <b>18</b> gradi.
+Alle dodici del mattino un termometro segnava <b>26</b> gradi.
+Di quanto è aumentata la temperatura?";options_4;;4|26|6
+7;50;;;;"il maestro Francesco ha 5 schede. Quando arriva la maestra Viola glie ne dà altre 2 
+Quante schede avrà in tutto il maestro Francesco?";text;;
+2;50;;;;"Roberta ha 5 caramelle di queste ne regala 3 alla sorella Caterina. 
+Quante caramelle rimangono a Roberta?";text;;
+4;50;;;;"Nel giardino ci sono 8 alberi. Durante l'autunno 4 alberi vengono tagliati perché sono secchi.
+Quanti alberi sono rimasti?";text;;
+3;50;;;;"Marco ha raccolto 6 mele di queste ne dà 3 al fratello Roberto. 
+Quante mele rimangono a Marco?";text;;
+6;50;;;;"Simone ha 2 maglioni. Se gliene regalano altri 4, quanti maglioni ha ora Simone?";text;;
+6;50;;;;"Veronica ha 1 € e Andrea ne ha 5€. 
+Quanti soldi avranno in totale?";text;;
+4;50;;;;"Giovanna per la ricreazione ha portato un panino per ognuna delle sue 7 amiche e 1 per la sua maestra. Di tutti i panini però, 4 si sono rovinati nella borsa. Quanti panini sono rimasti?";text;;
+15;50;;;;"Giulio ha 8 macchinine, il fratellino Marco ne ha 7. Quante macchinine hanno in tutto? ";text;;
+6;50;;;;"Gioele ha 4 panini, Riccardo ne ha 2. Quanti panini ci sono in tutto? ";text;;
+14;50;;;;"Monica e Lorenzo vogliono andare al cinema. Il costo di un biglietto è di 7 euro. Quanto costano 2 biglietti?";text;;
+1;50;;;;"Giulia ha 5 cagnolini di peluche, Sara ne ha 6. Quanti cagnolini ha di differenza Sara da Giulia? ";text;;
+17;50;;;;"Marco ha 8 biscotti, la sua sorellina Susanna ne ha 9. Quanti biscotti hanno in tutto? ";text;;
+13;50;;;;"Alberto ha 9 pinguini giocattolo e il suo amico Giovanni gliene regala 4. Quanti pinguini ha Alberto in tutto? ";text;;
+20;50;;;;"Io ho 10 medaglie e Lorenzo me ne porta altre 10. Quante medaglie ho in tutto? ";text;;
+17;50;;;;"Marco ha 12 figurine e Luca gliene regala altre 5. Quante figurine ha in tutto Marco? ";text;;
+6;50;;;;"Laura ha 10 lecca-lecca, ne dà 4 al suo amico Lorenzo. Quanti lecca-lecca ha ora Laura? ";text;;
+1;50;;;;"Giacomo ha 6 palloni. Tommaso ne ha 7. Quanti palloni ha in più Tommaso? ";text;;
+18;50;;;;"Mattia ha 20 banane e Federico gliene ruba 2. Quante banane rimangono a Mattia? ";text;;
+18;50;;;;"Leonardo ha 9 figurine. Gabriele ne ha altre 9. Quante figurine hanno in tutto? ";text;;
+17;50;;;;"Nel mio giardino ci sono 8 fiori gialli, 3 rossi e 6 arancioni. Quanti fiori sono in tutto? ";text;;
+12;50;;;;"Elena ha 4 libri e Sara le regala altri 8 libri. Quanti libri ha Elena? ";text;;
+5;50;;;;"Giulio ha 9 macchinine, la sua sorellina Valeria gliene rompe 4. Quante macchinine rimangono a Giulio? ";text;;
+14;50;;;;"Sara ha 17 caramelle, ne ragala 3 a Anna. Quante caramelle restano a Sara? ";text;;
+4;50;;;;"Lorenzo ha 6 palle da basket. Il suo fratellino Luca gliene prende 2. Quante palle rimangono a Lorenzo? ";text;;
+12;50;;;;"Il primo vaso ha 5 fiori. Il secondo 7. Quanti fiori ci sono in tutto? ";text;;
+10;50;;;;"La mia mamma mi ha regalato 20 palline, e io ne regalo 10 a Tommaso. Quante me ne rimangono? ";text;;
+18;50;;;;"La mamma va al mercato e compra 10 mele, 4 pere e 4 albicocche. Quanta frutta ha comprato in tutto la mamma? ";text;;
+11;50;;;;"Martina ha 5 caramelle, Alessia le regala 6 caramelle in più. Quante caramelle ha Martina? ";text;;
+20;50;;;;"Io ho 5 palline, Mario ne ha 10, Lorenzo ne ha 2 e Marco 3. Quante palline abbiamo in tutto? ";text;;
+12;50;;;;"Asia ha 20 figurine e ne regala 8 a Chiara. Quante figurine rimangono ad Asia? ";text;;
+13;50;;;;"Elena ha raccolto 5 castagne, Clelia ne ha raccolte 8. Quante castagne hanno raccolto in tutto Clelia e Elena? ";text;;
+20;50;;;;"Greta ha comprato 10 mele e Marco ne compra altre 10. Quante sono le mele in tutto? ";text;;
+10;50;;;;"Io ho 5 palline e il mio fratello me ne regala altre 5. Quante palline sono in tutto? ";text;;
+10;50;;;;"Costanza ha 5 bambole e Isotta gliene regala altre 5. Quante bambole ha Costanza in tutto? ";text;;
+12;50;;;;"Luca e Marco all'uscita della scuola decidono di trovarsi ai giardini per giocare con le palline. Luca porta 5 palline rosse e Marco porta 7 palline verdi. Quante palline hanno portato in tutto i bambini? ";text;;
+12;50;;;;"Le maestre di una scuola sono 17, 5 vanno via. Quante maestre rimangono? ";text;;
+2;50;;;;"In un sacchetto ci sono 9 caramelle. Emma mangia 4 caramelle. Sara ne mangia 3. Quante caramelle rimangono nel sacchetto? ";text;;
+11;50;;;;"Al corso di piscina 20 bambini si sono iscritti. 9 si tuffano. Quanti bambini si devono ancora tuffare? ";text;;
+12;50;;;;"Marco ha 19 palloncini. 7 palloncini sono rossi e gli altri son blu. Quanti sono quelli blu? ";text;;
+12;50;;;;"La mamma prepara una torta e la divide in 16 fette. Claudia di nascosto ne mangia 4. Quante fette rimangono? ";text;;
+7;50;;;;"Luca sta giocando con due macchinine mentre Sara gioca con 5 bambole. Quanti giochi ci sono in tutto? ";text;;
+5;50;;;;"Nel cestino ci sono 3 pere e 2 mele. Quanti frutti sono in tutto? ";text;;
+15;50;;;;"Al suo compleanno Lucia ha invitato 19 bambini, 4 sono malati. Quanti sono i bambini al compleanno? ";text;;
+16;50;;;;"Matteo ha 9 carte, Elisa ha 5 carte e Sara ha 2 carte. Quante carte sono in tutto? ";text;;
+20;50;;;;"In una fruttiera c'erano 11 arance, 8 banane e 1 mela. Quanti frutti c'erano in tutto? ";text;;
+10;50;;;;"Nella squadra di basket ci sono 20 bambini. 10 sono malati. Quanti sono i bambini presenti? ";text;;
+12;50;;;;"Le stelle in tutto sono 15 ma ne cadono 3. Quante ne rimangono? ";text;;
+29;50;;;;"Jessica ha 10 palle e Diego ha portato 19 palle. Quante palle ci sono in tutto? ";text;;
+20;50;;;;"Nella nostra classe ci sono 25 bambini, 5 sono malati. Quanti ne rimangono? ";text;;
+18;50;;;;"Una signora aveva 10 mele. Suo nipote gliene portò altre 8. Quante mele ebbe in tutto la signora? ";text;;
+20;50;;;;"Nel giardino di nonno Augusto ci sono 8 viole, 7 rose e 5 tulipani. Quanti fiori ci sono in tutto nel giardino? ";text;;
+15;50;;;;"A scuola ci sono 7 cartelloni. La maestra ne attacca 3, il giorno dopo ne attacca 5. Quanti sono adesso i cartelloni? ";text;;
+14;50;;;;"Ad una festa ci sono 20 palloncini. Alla fine ne scoppiano 6. Quanti ne rimangono? ";text;;
+12;50;;;;"Ad una bancherella c'erano 10 macchinine rosse e 2 blu. Quante macchinine c'ernao in tutto";text;;
+7;50;;;;"Al maneggio ci sono 15 cavalli. Arrivano, nel pomeriggio, 8 bambini. Quanti cavalli rimangono nella stalla? ";text;;
+20;50;;;;"Martina, con la mamma, è andata dal fioraio a comprare 5 rose, 5 tulipani e 10 viole. Quanti fiori ha comprato in tutto Martina con la mamma? ";text;;
+5;50;;;;"Marco ha 10 computer. Gli si rompono 5 computer. Quanti computer funzionano ancora? ";text;;
+10;50;;;;"A scuola ci sono 20 alunni. 10 vanno a casa. Quanti rimangono a scuola? ";text;;
+8;50;;;;"Giulia ha 12 cioccolatini.Ne mangia 4. Quanti cioccolatini rimangono? ";text;;
+21;50;;;;"La mamma è andata al supermercato e ha comprato 5 detersivi per il pavimento, 6 per i panni bianchi, 4 per i panni colorati e 6 per i neri. Quanti detersivi ha comprato la mamma in tutto? ";text;;
+7;50;;;;"Il lampadario del salotto ha in tutto 16 lampadine. Durante a settimana 9 lampadine si sono fulminate. Quante lampadine adesso illuminano il salotto? ";text;;
+14;50;;;;"Nel frigorifero di Luigi ci sono 7 bottiglie d'acqua,3 di vino e 4 di coca cola. Quante bottiglie ci sono nel frigorifero di Luigi? ";text;;
+11;50;;;;"Marco compra 18 figurine e ne regala 7 al suo amico Simone. Quante figurine rimangono a Marco? ";text;;
+13;50;;;;"In un vaso ci sono 27 rose.Dopo alcuni giorni la mamma toglie 14 rose perché appassite. Quante rose rimangono nel vaso?";text;;
+9;50;;;;"Roberta ha 15 caramelle, durante il giorno ne mangia 6. Quante caramelle le rimangono?";text;;
+12;50;;;;"Francesco va a fare una passeggiata allo zoo. Vede 3 leoni, 2 scimmie, 3 serpenti e 4 giraffe. Quanti animali ha visto Francesco? ";text;;
+13;50;;;;"Luigi ha 34 anni, suo fratello Mario ne ha 21. Quanti anni ha in più Luigi di suo fratello?";text;;
+71;50;;;;"Carlo ha 26 caramelle, il suo amico Francesco ha 45 caramelle in più di Carlo. Quante caramelle hanno insieme? Se dopo un'ora ciascuno ne ha mangiate 10, quante caramelle hanno adesso?";text;;
+23;50;;;;"Il papà di Andrea possiede 15 cavalli, di cui 4 sono femmine. Dopo due mesi, ogni cavalla ha partorito 2 cavalli. Quanti cavalli possiede ora il papà di Andrea?";text;;
+12;50;;;;"In una palazzina di 4 piani ci sono 3 appartamenti per ogni piano. Quanti appartamente in tutto ";text;;
+44;50;;;;"Luca ha il doppio degli anni di suo figlio. Suo figlio ha 22 anni. Quanti anni ha Luca?";text;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;

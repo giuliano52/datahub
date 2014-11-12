@@ -1,0 +1,11 @@
+question;correct_answer;wrong_answer;difficult_level;response_type;tags;if_correct;if_wrong;
+"Qual è lo stato più esteso dell'Africa?";Algeria;"Rep. Democratica del Congo|Sudan|Libia|Kazakhstan";50;options_2;;"L’Algeria ha 2 381 740 km^2 contro i 2 345 410 km^2 della RD del Congo e 1 886 068 del Sudan e 1 759 540 della Libia. Il Kazakhstan si trova in Asia e non in Africa";"L’Algeria ha 2 381 740 km^2 contro i 2 345 410 km^2 della RD del Congo e 1 886 068 del Sudan e 1 759 540 della Libia. Il Kazakhstan si trova in Asia e non in Africa";
+"Dopo la Russia, qual è lo stato più esteso al mondo?";Canada;"Stati Uniti|Cina|Brasile|Australia";50;options_3;;"Il Canada ha 9 984 670 Km^2 contro i 9 596 960 della Cina e 9 372 614 degli Stati Uniti. (La Russia invece ne ha: 17 098 242)";"Il Canada ha 9 984 670 Km^2 contro i 9 596 960 della Cina e 9 372 614 degli Stati Uniti. (La Russia invece ne ha: 17 098 242)";
+"Dopo il Po, qual è il fiume più lungo d'Italia?";Adige;Tevere|Adda|Oglio|Piave|Reno;50;options;;"l’Adige ha 410km contro i 405 del Tevere e i 313 dell’Adda (il Po invece ne ha 652)";"l’Adige ha 410km contro i 405 del Tevere e i 313 dell’Adda (il Po invece ne ha 652)";
+"Quale fiume ha la massima portata?";"Rio delle Amazzoni";"Nilo|Missisipi|Danubio|Rio della Plata|Yangtze (Fiume Azzurro)";50;options;;"Il Rio delle Amazzoni ha una portata di 219 000 m^3/s il secondo è il Congo 41800 m^3/s seguito dal Fiume Azzurro con 31 900 m^3/s";"Il Rio delle Amazzoni ha una portata di 219 000 m^3/s il secondo è il Congo 41800 m^3/s seguito dal Fiume Azzurro con 31 900 m^3/s";
+"Qual è la più grande isola della terra?";Groenlandia;"Nuova Guinea|Inghilterra|Madagascar|Borneo|Sumatra";25;options;;;;
+"Quale dei seguenti paesi non si affaccia sul bacino del Mediterraneo";Sudan;Siria|Albania|Tunisia|Montenegro;25;options_4;;;;
+"Quale mare bagna Bari?";Adriatico;Ionio|Ligure|Tirreno;35;options;;;;
+"Qual è il lago più grande d'Italia ?";"Lago di Garda";"Lago Maggiore|Lago di Bolsena|Lago di Como|Lago Lemano";25;options;;;;
+;;;;;;;;
+;;;;;;;;

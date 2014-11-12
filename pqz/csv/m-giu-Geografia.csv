@@ -1,0 +1,301 @@
+correct_answer;difficult_level;id;if_correct;if_wrong;question;response_type;tags;wrong_answer
+"Gran Bretagna";;;;;"In quale dei seguenti Paesi europei scorre il fiume Tamigi?";;;"Francia|Paesi Bassi|Romania"
+Grecia;;;;;"La città di Sparta si trova in:";;;Bulgaria|Croazia|Lituania
+Finlandia;;;;;"Quale Stato si affaccia sul Golfo di Botnia?";;;Alaska|Germania|Groenlandia
+Svizzera;;;;;"In quale dei seguenti Paesi europei scorre il fiume Reno?";;;Norvegia|Polonia|Spagna
+Portogallo;;;;;"In quale dei seguenti Paesi europei scorre il fiume Douro?";;;Croazia|Italia|Romania
+Austria;;;;;"In quale dei seguenti Paesi europei scorre il fiume Danubio?";;;Grecia|Polonia|Svizzera
+Spagna;;;;;"In quale dei seguenti Paesi europei scorre il fiume Tago?";;;"Belgio|Francia|Paesi Bassi"
+Russia;;;;;"In quale dei seguenti Paesi europei scorre il fiume Dnepr?";;;Danimarca|Finlandia|Polonia
+Germania;;;;;"In quale dei seguenti Paesi europei scorre il fiume Reno?";;;Austria|Belgio|Jugoslavia
+Francia;;;;;"Quale Stato si affaccia sul Golfo del Leone?";;;"Gran Bretagna|Italia|Turchia"
+Francia;;;;;"Quale dei seguenti Stati è attraversato dal fiume Reno?";;;"Gran Bretagna|Romania|Russia"
+Lettonia;;;;;"Quale Stato si affaccia sul Golfo di Riga?";;;Canada|Messico|Russia
+Russia;;;;;"Quale dei seguenti Stati europei è attraversato dal fiume Dvina?";;;Italia|Portogallo|Svizzera
+Germania;;;;;"Con quale dei seguenti Paesi, tra gli altri, confina la Francia?";;;"Austria|Paesi Bassi|Repubblica Ceca"
+Italia;;;;;"Con quale dei seguenti Paesi, tra gli altri, confina la Svizzera?";;;"Paesi Bassi|Slovenia|Spagna"
+Spagna;;;;;"Con quale dei seguenti Paesi confina il Portogallo?";;;Francia|Grecia|Italia
+Germania;;;;;"La città di Lipsia si trova in:";;;Austria|Olanda|Polonia
+Turchia;;;;;"In quale Stato si trova la città di Istanbul?";;;Egitto|Finlandia|Francia
+Irlanda;;;;;"In quale Stato si trova la città di Dublino?";;;Galles|Inghilterra|Scozia
+Portogallo;;;;;"La città di Coimbra si trova in:";;;Francia|Lituania|Norvegia
+Svizzera;;;;;"La città di Lucerna si trova in:";;;Belgio|Francia|Lettonia
+Francia;;;;;"In quale dei seguenti Paesi europei scorre il fiume Rodano?";;;Polonia|Romania|Spagna
+"Mar Mediterraneo";;;;;"Quale dei seguenti mari bagna Creta?";;;"Mar Caspio|Mar Nero|Mar Tirreno"
+"Mar Baltico";;;;;"Quale dei seguenti mari bagna l'Estonia?";;;"Mar Caspio|Mar Egeo|Mar Nero"
+"Mar Mediterraneo";;;;;"Quale dei seguenti mari bagna Malta?";;;"Mar di Marmara|Mar Morto|Mare Tirreno"
+"Mare Adriatico";;;;;"Quale dei seguenti mari bagna l'Albania?";;;"Mar Caspio|Mar Egeo|Mare di Marmara"
+"il Mar Mediterraneo con l'Oceano Atlantico";;;;;"Lo stretto di Gibilterra collega:";;;"il Mar Mediterraneo con il Mar Nero|il Mar Mediterraneo con il Mar Rosso|Il Mar Rosso con l'Oceano Indiano"
+"Oceano Atlantico";;;;;"Quale dei seguenti mari/oceani bagna la Francia?";;;"Mar Caspio|Mar Nero|Mare di Barents"
+"Mar Egeo";;;;;"Quale dei seguenti mari bagna l'isola di Lesbo?";;;"Mar Bianco|Mar Caspio|Mar Nero"
+"Oceano Atlantico";;;;;"Quale dei seguenti mari bagna le isole Canarie?";;;"Mar Baltico|Mar Mediterraneo|Mare di Barents"
+"Mar Mediterraneo";;;;;"Quale dei seguenti mari bagna l'isola di Pantelleria?";;;"Mar di Marmara|Mar Egeo|Mare Adriatico"
+Russia;;;;;"Quale Stato si affaccia sul Golfo di Finlandia?";;;"Germania|Paesi Bassi|Polonia"
+"Mare Adriatico";;;;;"Quale dei seguenti mari bagna la Croazia?";;;"Mar Caspio|Mar Egeo|Mar Tirreno"
+Germania;;;;;"Quale dei seguenti Stati europei è attraversato dal fiume Elba?";;;Grecia|Italia|Lituania
+Bratislava;;;;;"Quali delle seguenti città si trova nella Repubblica Slovacca?";;;Budapest|Lipsia|Praga
+Danzica;;;;;"Quali delle seguenti città si trova in Polonia?";;;Amburgo|Lione|Monaco
+Vaduz;;;;;"Quali delle seguenti città si trova in Liechtenstein?";;;Bruxelles|Dallas|Jerevan
+"Mar Adriatico";;;;;"Quale dei seguenti mari bagna il Montenegro?";;;"Mar Egeo|Mare Arabico|Mare Ionio"
+"Mar Adriatico";;;;;"Quale dei seguenti mari bagna la Slovenia?";;;"Mar Egeo|Mar Nero|Mare Ionio"
+Irlanda;;;;;"Quale dei seguenti Paesi europei è bagnato dall'Oceano Atlantico?";;;Croazia|Grecia|Italia
+Francia;;;;;"Quale dei seguenti Paesi europei è bagnato dall'Oceano Atlantico?";;;Bulgaria|Grecia|Italia
+Russia;;;;;"In quale, tra i seguenti Stati, si trova il lago Ladoga?";;;"Arabia Saudita|Giappone|Perù"
+"Mar Mediterraneo";;;;;"In quale mare si trova l'isola di Cipro?";;;"Mar Caspio|Mar Ionio|Mar Morto"
+"Mar Mediterraneo";;;;;"Quale dei seguenti mari bagna le isole Baleari?";;;"Mar Egeo|Mar Ionio|Mare Adriatico"
+Atene;;;;;"Qual è la capitale della Grecia?";;;Creta|Salonicco|Sofia
+Francia;;;;;"La città di Tolone si trova in:";;;Belgio|Portogallo|Slovenia
+Estonia;;;;;"Quale Stato si affaccia sul Golfo di Finlandia?";;;Alaska|Groenlandia|Irlanda
+Helsinky;;;;;"Quale delle seguenti città europee si trova più a est?";;;Copenaghen|Oslo|Stoccolma
+Tallinn;;;;;"Quale delle seguenti città è situata più a est?";;;Bratislava|Madrid|Zagabria
+Bruxelles;;;;;"Qual è la capitale del Belgio?";;;Bordeaux|Liegi|Lione
+Salonicco;;;;;"Quale delle seguenti città NON è capitale di uno Stato?";;;Belgrado|Berna|Bucarest
+Salisburgo;;;;;"Quale delle seguenti città NON è capitale di uno Stato?";;;Kiev|Mosca|Varsavia
+Austria;;;;;"La città di Innsbruck si trova in:";;;Danimarca|Germania|Svizzera
+Polonia;;;;;"Varsavia si trova in:";;;"Austria|Germania|Repubblica Ceca"
+Francia;;;;;"Lione si trova in:";;;"Italia|Regno Unito|Spagna"
+Germania;;;;;"In quale Stato si trova la città di Francoforte?";;;"Gran Bretagna|Grecia|Romania"
+Svizzera;;;;;"Berna si trova in:";;;Austria|Francia|Germania
+Francia;;;;;"In quale Stato si trova la città di Lione?";;;Austria|Germania|Portogallo
+Colonia;;;;;"Quale delle seguenti città NON è capitale di uno Stato?";;;"Atene|Il Cairo|New Delhi"
+"dell'Austria e dell'Italia";;;;;"Il Tirolo è una regione:";;;"del Belgio|della Spagna|della Svizzera e della Francia"
+;;;;;"La città di Bristol si trova in:";;;Austria|Irlanda|Norvegia
+Trieste;;;;;"Quale delle seguenti città è capoluogo di regione?";;;Matera|Salerno|Teramo
+Campobasso;;;;;"Quale delle seguenti città è capoluogo di regione?";;;Avellino|Matera|Parma
+Ancona;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;Brindisi|Frosinone|Messina
+Palermo;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;Matera|Savona|Taranto
+Catanzaro;;;;;"Quale delle seguenti città è capoluogo di regione?";;;Lecce|Pordenone|Savona
+Crotone;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;"Castrovillari|Lamezia Terme|Palmi"
+L'Aquila;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;Lecce|Mantova|Parma
+Torino;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;Modena|Taranto|Verona
+Potenza;;;;;"Quale delle seguenti città è capoluogo di regione?";;;Alessandria|Foggia|Trapani
+Latina;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;Aversa|Chiaravalle|Gaeta
+Isernia;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;Agnone|Vasto|Veroli
+Pollino;;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Monte Bianco|Monte Cervino|Monte Rosa"
+Rovigo;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;"Forlimpopoli|Riccione|S. Benedetto del Tronto"
+"Monte Bianco";;;;;"Quale dei seguenti monti appartiene alla catena delle Alpi?";;;"Cimone|Gran Sasso|La Majella"
+Nuoro;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;Gubbio|Monreale|Treviglio
+Rieti;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;Civitavecchia|Tarquinia|Tivoli
+Ortles;;;;;"Quale dei seguenti monti appartiene alla catena delle Alpi?";;;"Cimone|La Majella|Vettore"
+Toscana;;;;;"In quale Regione si trova la città di Piombino?";;;Liguria|Lombardia|Umbria
+Calabria;;;;;"In quale Regione si trova la città di Locri?";;;Basilicata|Puglia|Sicilia
+Toscana;;;;;"In quale Regione si trova la città di Empoli?";;;Lazio|Liguria|Umbria
+Liguria;;;;;"In quale Regione si trova la città di Rapallo?";;;Marche|Piemonte|Toscana
+"Emilia Romagna";;;;;"Geografia In quale Regione si trova la città di Fidenza?";;;Marche|Toscana|Umbria
+Calabria;;;;;"Geografia Paola, Rosarno e Castrovillari. In quale delle seguenti Regioni italiane si trovano queste";;;Abruzzo|Sicilia|Veneto
+"Montagna Grande";;;;;"Geografia Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Colle del Gran San Bernardo|Monte Bianco|Pizzo Bernina"
+"Trentino-Alto Adige";;;;;"Dobbiaco, Bressanone e Rovereto. In quale delle seguenti Regioni italiane si trovano";;;"Friuli-Venezia Giulia|Piemonte|Veneto"
+"La Meta";;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Gran Paradiso|Monte Bianco|Monte Rosa"
+Velino;;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Monte Bianco|Monte Rosa|Monviso"
+Pistoia;;;;;"PT è la targa automobilistica di:";;;Paestum|Potenza|Prato
+Vettore;;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Monte Cervino|Monviso|Ortles"
+Lucca;;;;;"Quale delle seguenti città è capoluogo di provincia?";;;Fidenza|Ivrea|Orvieto
+"Monte Titano";;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Colle del Gran San Bernardo|Monte Bianco|Monte Rosa"
+Adamello;;;;;"Quale dei seguenti monti appartiene alla catena delle Alpi?";;;"Cimone|La Meta|Vettore"
+Sirente;;;;;"Quale dei seguenti monti appartiene alla catena degli Appennini?";;;"Gran Paradiso|Monte Bianco|Monte Rosa"
+Sardegna;;;;;"In quale Regione si trova la città di Olbia?";;;Lazio|Marche|Sicilia
+Brindisi;;;;;"Quale delle seguenti città è situata più a est?";;;Pescara|Roma|Venezia
+"Circa 200 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Savona e Modena?";;;"Circa 100 km|Più di 500 km|Tra 250 e 300 km"
+"Tra 400 e 600 chilometri";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Cosenza e L'Aquila?";;;"Meno di 100 chilometri|Più di 700 chilometri|Tra 200 e 300 chilometri"
+L'Aquila;;;;;"Quale delle seguenti città è situata più a est?";;;Aosta|Genova|Pisa
+Imperia;;;;;"Quale delle seguenti città è situata più a ovest?";;;Foggia|Messina|Pescara
+Bolzano;;;;;"Quale delle seguenti città è situata più a nord?";;;Alessandria|Aosta|Varese
+Frosinone;;;;;"Quale delle seguenti città è situata più a est?";;;Alessandria|Lecco|Orvieto
+"Meno di 200 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Firenze e Perugia?";;;"Più di 500 km|Tra 300 e 400 km|Tra 400 e 500 km"
+"Friuli-Venezia Giulia";;;;;"In quale Regione italiana si trova la città di Monfalcone?";;;Lazio|Marche|Puglia
+"Tra 200 km e 300 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Bari e Napoli?";;;"Circa 400 km|Meno di 150 km|Più di 500 km"
+Trento;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;"Reggio Emilia|Savona|Varese"
+Siracusa;;;;;"Quale delle seguenti città è situata più a est?";;;Agrigento|Palermo|Ragusa
+"Circa 160 chilometri";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Palermo e Catania?";;;"Circa 90 chilometri|Meno di 50 chilometri|Più di 400 chilometri"
+"Tra 100 e 200 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Cagliari e Nuoro?";;;"Circa 550 km|Meno di 50 km|Più di 400 km"
+"Circa 120 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Cagliari e Nuoro?";;;"Circa 300 km|Meno di 60 km|Più di 400 km"
+Potenza;;;;;"Quale delle seguenti città è situata più a sud?";;;Campobasso|Foggia|Latina
+Roma;;;;;"Quale delle seguenti città è situata più a ovest?";;;Caserta|Gorizia|Rieti
+Frosinone;;;;;"FR è la targa automobilistica di:";;;Fermo|Ferrara|Forlì
+Sicilia;;;;;"In quale delle seguenti Regioni italiane si trova l'area geografica della Val di Mazara?";;;"Basilicata|Calabria|Trentino-Alto Adige"
+Sardegna;;;;;"In quale delle seguenti Regioni italiane si trova l'area geografica della Barbagia?";;;Liguria|Piemonte|Veneto
+"In Toscana";;;;;"In quale delle seguenti Regioni italiane si trova l'area geografica del Mugello?";;;"In Abruzzo|In Campania|In Molise"
+"In Toscana";;;;;"In quale delle seguenti Regioni si trova l'area geografica della Maremma?";;;"In Abruzzo|In Emilia-Romagna|In Umbria"
+"Friuli-Venezia Giulia";;;;;"In quale delle seguenti Regioni italiane si trova l'area geografica della Carnia?";;;Lombardia|Sardegna|Veneto
+"Tra 150 e 200 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Oristano e Olbia?";;;"Circa 300 km|Meno di 50 km|Più di 500 km"
+"Circa 600 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Salerno e Ferrara?";;;"Meno di 200 km|Più di 800 km|Tra 200 e 300 km"
+Cuneo;;;;;"CN è la targa automobilistica di:";;;Catania|Catanzaro|Cento
+Piemonte;;;;;"In quale delle seguenti Regioni italiane si trova l'area geografica del Canavese?";;;Liguria|Lombardia|Veneto
+Parma;;;;;"PR è la targa automobilistica di:";;;Perugia|Pordenone|Prato
+Pescara;;;;;"PE è la targa automobilistica di:";;;Perugia|Pesaro|Peschiera
+Salerno;;;;;"SA è la targa automobilistica di:";;;Sassari|Sassuolo|Savona
+Cagliari;;;;;"CA è la targa automobilistica di:";;;Castrovillari|Catania|Catanzaro
+Cosenza;;;;;"CS è la targa automobilistica di:";;;Campobasso|Caserta|Cesena
+"Tra 300 km e 400 km";;;;;"Qual è la distanza chilometrica approssimativa in linea d'aria tra Torino e Padova?";;;"Meno di 200 km|Più di 600 km|Tra 200 e 300 km"
+Lecco;;;;;"LC è la targa automobilistica di:";;;Lecce|Licata|Lucca
+Modena;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;"Piacenza|Reggio Emilia|Rimini"
+bergamaschi;;;;;"Gli abitanti di Bergamo si chiamano:";;;bergamani|bergamesi|bergamini
+Liguria;;;;;"In quale Regione italiana si trova la città di Alassio?";;;Emilia-Romagna|Lazio|Toscana
+Verona;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Belluno|Treviso|Vicenza
+Aosta;;;;;"Quale delle seguenti città italiane è capoluogo di regione?";;;Bolzano|Sondrio|Udine
+Napoli;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Como|Genova|Vercelli
+Novara;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Cuneo|Ivrea|Vercelli
+Ferrara;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Cesena|Faenza|Imola
+Livorno;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;"Città di Castello|Pisa|Viareggio"
+Sassari;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Nuoro|Olbia|Oristano
+Bolzano;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Bressanone|Gorizia|Pordenone
+"Mare di Sicilia";;;;;"Quale dei seguenti mari bagna la provincia di Caltanissetta?";;;Ionio|Nessuno|Tirreno
+Ligure;;;;;"Quale dei seguenti mari bagna la provincia di Imperia?";;;Adriatico|Nessuno|Tirreno
+Toscana;;;;;"Quale delle seguenti regioni non confina con il Piemonte?";;;"Emilia Romagna|Liguria|Valle d'Aosta"
+Liguria;;;;;"Quale delle seguenti Regioni italiane NON confina con la Lombardia?";;;"Emilia Romagna|Piemonte|Veneto"
+"La Spezia";;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Gorizia|Sanremo|Savona
+cosentini;;;;;"Gli abitanti di Cosenza si chiamano:";;;cosenzani|cosenzesi|cosenzini
+trevigiani;;;;;"Gli abitanti di Treviso si chiamano:";;;treviseni|trevisini|visani
+vicentini;;;;;"Gli abitanti di Vicenza si chiamano:";;;vicenzani|vicenzesi|vicenzini
+aretini;;;;;"Gli abitanti di Arezzo si chiamano:";;;arezzani|arezzesi|arezzitani
+astigiani;;;;;"Gli abitanti di Asti si chiamano:";;;astani|astesi|astini
+catanesi;;;;;"Gli abitanti di Catania si chiamano:";;;catanensi|cataniani|catanini
+Bergamo;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Lecco|Lodi|Mantova
+padovani;;;;;"Gli abitanti di Padova si chiamano:";;;padovensi|padovesi|padovini
+Veneto;;;;;"Quale delle seguenti Regioni NON confina con le Marche?";;;Abruzzo|Toscana|Umbria
+aostani;;;;;"Gli abitanti di Aosta si chiamano:";;;aostensi|aostesi|aostini
+Faenza;;;;;"Quale delle seguenti città italiane NON è capoluogo di provincia?";;;Brescia|Lecce|Pescara
+Viareggio;;;;;"Quale delle seguenti città italiane NON è capoluogo di provincia?";;;Enna|Latina|Matera
+Mestre;;;;;"Quale delle seguenti città italiane NON è capoluogo di provincia?";;;Frosinone|Imperia|Teramo
+Torino;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Caserta|Catania|Genova
+Brescia;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Como|Cremona|Pavia
+piacentini;;;;;"Gli abitanti di Piacenza si chiamano:";;;piacenzesi|piacenzini|piacenzoli
+Emilia-Romagna;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;"Basilicata|Friuli-Venezia Giulia|Molise"
+Cassino;;;;;"Quale delle seguenti città NON si trova in Calabria?";;;Crotone|Paola|Rossano
+Alassio;;;;;"Quale delle seguenti città NON si trova in Trentino-Alto Adige?";;;Bolzano|Dobbiaco|Merano
+Umbria;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;"Liguria|Molise|Valle d'Aosta"
+Piemonte;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;Campania|Lazio|Veneto
+Abruzzo;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;"Liguria|Umbria|Valle d'Aosta"
+Liguria;;;;;"Quale delle seguenti Regioni NON confina con il Veneto?";;;"Emilia Romagna|Friuli Venezia Giulia|Lombardia"
+"Valle d'Aosta";;;;;"Quale tra le seguenti Regioni italiane è meno estesa?";;;"Abruzzo|Lombardia|Trentino-Alto Adige"
+Portici;;;;;"Quale delle seguenti città NON si trova in Abruzzo?";;;Chieti|Giulianova|Sulmona
+Marche;;;;;"Quale tra le seguenti Regioni italiane è meno estesa?";;;Calabria|Lombardia|Toscana
+Molise;;;;;"Quale tra le seguenti Regioni italiane è meno estesa?";;;Emilia-Romagna|Lazio|Sicilia
+Sicilia;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;Abruzzo|Basilicata|Veneto
+Umbria;;;;;"Quale tra le seguenti Regioni italiane è meno estesa?";;;Calabria|Piemonte|Puglia
+"Friuli-Venezia Giulia";;;;;"Quale tra le seguenti Regioni italiane è meno estesa?";;;Emilia-Romagna|Toscana|Veneto
+Toscana;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;"Liguria|Trentino-Alto Adige|Umbria"
+Lombardia;;;;;"Quale tra le seguenti Regioni italiane è più estesa?";;;Basilicata|Campania|Lazio
+Umbria;;;;;"Quale delle seguenti Regioni NON confina con l'Abruzzo?";;;Lazio|Marche|Molise
+Monza;;;;;"Quale tra le seguenti città italiane ha più abitanti?";;;Cremona|Mantova|Sondrio
+Marche;;;;;"Quale delle seguenti Regioni NON confina con il Lazio?";;;Molise|Toscana|Umbria
+Marche;;;;;"Quale delle seguenti Regioni NON confina con il Veneto?";;;"Emilia Romagna|Friuli Venezia Giulia|Lombardia"
+Abruzzo;;;;;"Quale delle seguenti Regioni NON confina con la Campania?";;;Lazio|Molise|Puglia
+"Friuli Venezia Giulia";;;;;"Quale delle seguenti Regioni NON confina con la Lombardia?";;;"Emilia Romagna|Piemonte|Trentino Alto Adige"
+"Valle D'Aosta";;;;;"Quale delle seguenti Regioni NON confina con la Liguria?";;;"Emilia Romagna|Piemonte|Toscana"
+Fano;;;;;"Quale delle seguenti città NON si trova in Sardegna?";;;Carbonia|Olbia|Oristano
+Abruzzo;;;;;"Quale delle seguenti Regioni NON confina con l'Emilia Romagna?";;;Marche|Piemonte|Veneto
+Pompei;;;;;"Quale delle seguenti città NON si trova in Liguria?";;;"La Spezia|Rapallo|Ventimiglia"
+Taranto;;;;;"Quale dei seguenti capoluoghi NON appartiene alla Regione Sicilia?";;;Agrigento|Messina|Trapani
+Verona;;;;;"Quale dei seguenti capoluoghi NON appartiene alla Regione Lombardia?";;;Brescia|Cremona|Lodi
+Isernia;;;;;"Quale dei seguenti capoluoghi NON appartiene alla Regione Calabria?";;;Catanzaro|Cosenza|Crotone
+Cosenza;;;;;"Quale dei seguenti capoluoghi NON appartiene alla Regione Campania?";;;Avellino|Caserta|Salerno
+Pescara;;;;;"Quale delle seguenti città NON si trova in Molise?";;;Campobasso|Isernia|Termoli
+Umbria;;;;;"Quale delle seguenti Regioni NON confina con l'Emilia Romagna?";;;Piemonte|Toscana|Veneto
+Calabria;;;;;"Quale delle seguenti regioni non confina con la Puglia?";;;Basilicata|Campania|Molise
+Emilia-Romagna;;;;;"Quale delle seguenti Regioni italiane è attraversata dal fiume Panaro?";;;Liguria|Lombardia|Piemonte
+Napoli;;;;;"L'isola di Capri è in provincia di:";;;Benevento|Caserta|Roma
+Piemonte;;;;;"Quale delle seguenti Regioni confina con l'Emilia Romagna?";;;"Calabria|Friuli-Venezia Giulia|Umbria"
+veronesi;;;;;"Gli abitanti di Verona si chiamano:";;;veronani|veronensi|veronini
+"Trentino Alto Adige";;;;;"Quale delle seguenti Regioni italiane è attraversata dal fiume Adige?";;;Basilicata|Lazio|Umbria
+Campania;;;;;"Quale delle seguenti Regioni italiane è attraversata dal fiume Volturno?";;;Basilicata|Lazio|Umbria
+Marche;;;;;"Quale delle seguenti Regioni confina con il Lazio?";;;"Basilicata|Emilia Romagna|Puglia"
+Piemonte;;;;;"Quale delle seguenti Regioni italiane è attraversata dal fiume Bormida?";;;Emilia-Romagna|Toscana|Veneto
+Emilia-Romagna;;;;;"Quale delle seguenti Regioni confina con la Liguria?";;;Lombardia|Umbria|Veneto
+Lombardia;;;;;"Quale delle seguenti Regioni è solcata dal fiume Po?";;;"Friuli Venezia Giulia|Liguria|Valle d'Aosta"
+Toscana;;;;;"Quale delle seguenti Regioni è solcata dal fiume Arno?";;;Liguria|Lombardia|Marche
+Lombardia;;;;;"Quale delle seguenti Regioni è solcata dal fiume Oglio?";;;"Campania|Lazio|Valle d'Aosta"
+Messina;;;;;"L'isola di Filicudi è in provincia di:";;;"Agrigento|Lecce|Reggio Calabria"
+Livorno;;;;;"L'isola d'Elba è in provincia di:";;;Napoli|Pesaro|Ravenna
+Napoli;;;;;"L'isola di Ischia è in provincia di:";;;Caserta|Latina|Salerno
+Toscana;;;;;"Quale delle seguenti regioni è attraversata dal fiume Tevere?";;;"Campania|Emilia Romagna|Liguria"
+Piemonte;;;;;"Quale delle seguenti Regioni confina con la Valle d'Aosta?";;;Liguria|Lombardia|
+Umbria;;;;;"In quale Regione si trova Città di Castello?";;;Lazio|Marche|Toscana
+Lazio;;;;;"In quale Regione si trova la città di Civitavecchia?";;;Basilicata|Molise|Toscana
+Sicilia;;;;;"In quale Regione si trova la città di Mazara del Vallo?";;;Calabria|Puglia|Sardegna
+Puglia;;;;;"In quale Regione si trova la città di Barletta?";;;Basilicata|Calabria|Molise
+Campania;;;;;"In quale Regione si trova la città di Pompei?";;;Basilicata|Calabria|Molise
+Trento;;;;;"Quale tra le seguenti città italiane conta più abitanti?";;;Belluno|Merano|Rovigo
+Veneto;;;;;"Quale delle seguenti Regioni confina con il Friuli-Venezia Giulia?";;;"Emilia-Romagna|Toscana|Trentino-Alto Adige"
+Lombardia;;;;;"Quale delle seguenti Regioni è solcata dal fiume Mincio?";;;"Basilicata|Lazio|Valle d'Aosta"
+Emilia-Romagna;;;;;"Quale delle seguenti Regioni confina con il Veneto?";;;Marche|Piemonte|Toscana
+Veneto;;;;;"Quale delle seguenti Regioni confina con il Trentino-Alto Adige?";;;"Emilia-Romagna|Friuli-Venezia Giulia|Piemonte"
+"Friuli Venezia Giulia";;;;;"Quale delle seguenti Regioni confina con il Veneto?";;;"Liguria|Piemonte|Valle d'Aosta"
+Calabria;;;;;"Quale delle seguenti Regioni confina con la Basilicata?";;;Lazio|Marche|Toscana
+Lombardia;;;;;"Quale delle seguenti Regioni confina con il Trentino Alto Adige?";;;"Emilia Romagna|Friuli Venezia Giulia|Piemonte"
+Emilia-Romagna;;;;;"Quale delle seguenti Regioni confina con il Piemonte?";;;"Toscana|Trentino-Alto Adige|Veneto"
+Lombardia;;;;;"In quale Regione si trova la città di Monza?";;;Liguria|Piemonte|Veneto
+Molise;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Adriatico?";;;"Calabria|Toscana|Trentino-Alto Adige"
+"Lago d'Orta";;;;;"Quale tra i laghi seguenti NON si trova in Lombardia?";;;"Lago di Lecco|Lago d'Iseo|Lago Maggiore"
+"Lago Trasimeno";;;;;"Quale dei seguenti laghi si trova più a sud?";;;"Lago di Garda|Lago d'Iseo|Lago Maggiore"
+Lombardia;;;;;"In quale tra le seguenti Regioni italiane si trova il lago di Como?";;;Emilia-Romagna|Piemonte|Veneto
+Lazio;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Tirreno?";;;"Friuli-Venezia Giulia|Marche|Umbria"
+Otranto;;;;;"Quale, tra le seguenti città italiane, NON si affaccia sulle coste tirreniche?";;;Piombino|Sorrento|Terracina
+Senigallia;;;;;"Quale, tra le seguenti città italiane, si affaccia sulle coste adriatiche?";;;Cefalù|Portoferraio|Viareggio
+Toscana;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Tirreno?";;;Lombardia|Marche|Veneto
+"il lago di Como e il lago di Garda";;;;;"Il lago d'Iseo si trova fra:";;;"il lago Maggiore e il lago di Como|il lago Maggiore e il lago di Lugano|il lago Maggiore e il lago d'Orta"
+Basilicata;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Ionio?";;;Emilia-Romagna|Liguria|Umbria
+Abruzzo;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Adriatico?";;;"Campania|Toscana|Valle d'Aosta"
+Messina;;;;;"L'isola di Panarea è in provincia di:";;;Livorno|Nuoro|Ragusa
+Campania;;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Tirreno?";;;"Puglia|Valle d'Aosta|Veneto"
+"Valle d'Aosta";;;;;"In quale tra le seguenti Regioni italiane si trova il Monte Bianco?";;;"Friuli-Venezia Giulia|Liguria|Lombardia"
+beneventani;;;;;"Gli abitanti di Benevento si chiamano:";;;beneventensi|beneventesi|beneventini
+parmensi;;;;;"Gli abitanti di Parma si chiamano:";;;parmani|parmesi|parmini
+perugini;;;;;"Gli abitanti di Perugia si chiamano:";;;perugensi|perugesi|perugiani
+salernitani;;;;;"Gli abitanti di Salerno si chiamano:";;;salernani|salernesi|salernini
+"Friuli-Venezia Giulia";;;;;"Quale delle seguenti Regioni italiane è bagnata dal Mar Adriatico?";;;Liguria|Sicilia|Toscana
+Messina;;;;;"L'isola di Vulcano è in provincia di:";;;Pescara|Ragusa|Taranto
+Sicilia;;;;;"In quale tra le seguenti Regioni italiane si trova il vulcano Etna?";;;Calabria|Puglia|Sardegna
+Latina;;;;;"L'isola di Ponza è in provincia di:";;;Ancona|Caserta|Genova
+"Lago Maggiore";;;;;"Quale dei seguenti laghi NON è completamente compreso nei confini italiani?";;;"Lago di Bolsena|Lago di Garda|Lago d'Iseo"
+Messina;;;;;"L'isola di Stromboli è in provincia di:";;;"Pescara|Trapani|Vibo Valentia"
+Sassari;;;;;"L'isola di Caprera è in provincia di:";;;Cagliari|Livorno|Siracusa
+Sassari;;;;;"L'isola della Maddalena è in provincia di:";;;Genova|Livorno|Ravenna
+Cagliari;;;;;"L'isola di Sant'Antioco è in provincia di:";;;Napoli|Palermo|Taranto
+Sassari;;;;;"L'isola dell'Asinara è in provincia di:";;;Cagliari|Napoli|Palermo
+"Lago d'Iseo";;;;;"Quale dei seguenti laghi è situato più a est?";;;"Lago di Como|Lago d'Orta|Lago Maggiore"
+;;;;;"Quale tra i laghi seguenti NON si trova in Lombardia?";;;"Lago di Como|Lago di Varese|"
+"Lago di Garda";;;;;"Quale tra i seguenti laghi italiani ha la superficie più estesa?";;;"Lago di Como|Lago Maggiore|Lago Trasimeno"
+Palermo;;;;;"L'isola di Ustica è in provincia di:";;;"Messina|Napoli|Reggio Calabria"
+Angola;;;;;"Quale dei seguenti Paesi si trova a sud dell'equatore?";;;Egitto|Tunisia|Turchia
+Ecuador;;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;Arizona|Idaho|Montana
+Guyana;;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;"Georgia|New Jersey|Virginia"
+Colombia;;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;Alabama|Texas|Wisconsin
+Alberta;;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;Alabama|Nebraska|Ohio
+Cina;;;;;"Quale dei seguenti Paesi si trova a nord dell'equatore?";;;"Nuova Zelanda|Uruguay|Zambia"
+Spagna;;;;;"Quale dei seguenti Paesi si trova a nord dell'equatore?";;;"Australia|Cile|Nuova Zelanda"
+Israele;;;;;"In quale, tra i seguenti Stati, si trova il lago di Tiberiade?";;;Eritrea|Giappone|Polonia
+Argentina;;;;;"Quale dei seguenti Paesi si trova a sud dell'equatore?";;;Grecia|Nicaragua|Senegal
+Cile;;;;;"Quale dei seguenti Paesi si trova a sud dell'equatore?";;;Iran|Russia|Venezuela
+Mozambico;;;;;"Quale dei seguenti Paesi si trova a sud dell'equatore?";;;Egitto|Francia|Messico
+America;;;;;"In quale dei seguenti continenti si trova l'Ecuador?";;;Africa|Asia|Europa
+Tanzania;;;;;"In quale, tra i seguenti Stati, si trova il lago Tanganica?";;;"Gran Bretagna|Mongolia|Uruguay"
+Giordania;;;;;"Quale dei seguenti Stati confina con l'Arabia Saudita?";;;India|Polonia|Russia
+Ecuador;;;;;"Quale dei seguenti Stati confina con la Colombia?";;;"Argentina|Stati Uniti|Uruguay"
+Thailandia;;;;;"Quale dei seguenti Paesi si trova a nord dell'equatore?";;;"Nuova Zelanda|Paraguay|Sud Africa"
+USA;;;;;"Quale dei seguenti Stati è attraversato dal fiume Mississippi?";;;Canada|Messico|Venezuela
+Marocco;;;;;"In quale dei seguenti Stati si trova la catena montuosa dell'Atlante?";;;Ciad|Grecia|Iran
+"In Asia";;;;;"In quale continente si trova l'Afghanistan?";;;"In Africa|In America|In Oceania"
+Asia;;;;;"In quale area geografica si trova lo stato del Kazakistan?";;;"Africa|America Centro-Settentrionale|America Meridionale"
+"America Meridionale";;;;;"In quale area geografica si trova lo stato di Santo Domingo?";;;"Africa|America Centro-Settentrionale|Asia"
+Spagnolo;;;;;"Qual è la lingua ufficiale dell'Argentina?";;;Francese|Inglese|Italiano
+"Mar Mediterraneo";;;;;"Quale dei seguenti mari bagna il Marocco?";;;"Mar Giallo|Mar Nero|Mare del Nord"
+"Stati Uniti d'America";;;;;"Detroit, Sacramento e Phoenix. In quale dei seguenti Paesi si trovano queste città?";;;"Canada|Messico|Nuova Zelanda"
+"Il Cairo";;;;;"Qual è la capitale dell'Egitto?";;;Alessandria|Gaza|Zagazig
+"Nuova Zelanda";;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;"Maine|New Hampshire|Vermont"
+USA;;;;;"Quale dei seguenti Stati è attraversato dal fiume Colorado?";;;Canada|Colombia|Venezuela
+Honduras;;;;;"Quale dei seguenti NON è uno Stato degli USA?";;;"Indiana|Nevada|South Dakota"
+Germania;;;;;"In quale, tra i seguenti Stati, si trova il lago di Costanza?";;;Belgio|Italia|Romania
+"Stati Uniti d'America";;;;;"Quale Stato si affaccia sul Golfo del Messico?";;;Alaska|Canada|Islanda
+Nepal;;;;;"In quale dei seguenti Stati si trova il monte Everest?";;;India|Russia|Yemen
+"Stati Uniti d'America";;;;;"In quale dei seguenti Stati si trova la catena montuosa degli Appalachi?";;;Australia|Brasile|Spagna
+"America Centro-Settentrionale";;;;;"In quale area geografica si trovano le Isole Vergini?";;;"Africa|America Meridionale|Asia"
+Euro;;;;;"Qual è l'unità monetaria della Finlandia?";;;Dollaro|Rand|Yen
+Euro;;;;;"Qual è l'unità monetaria dell'Austria?";;;Dollaro|Dracma|Yen
+Rublo;;;;;"Qual è l'unità monetaria della Russia?";;;Dollaro|Marco|Rand
+Euro;;;;;"Qual è l'unità monetaria dei Paesi Bassi?";;;Dollaro|Rand|Sterlina
+Euro;;;;;"Qual è l'unità monetaria del Belgio?";;;Dollaro|Lira|Yen
+Euro;;;;;"Qual è l'unità monetaria della Germania?";;;Dollaro|Franco|Rand
+Euro;;;;;"Qual è l'unità monetaria della Francia?";;;Dollaro|Marco|Yen
+Euro;;;;;"Qual è l'unità monetaria della Grecia?";;;Corona|Dracma|Fiorino
+Sterlina;;;;;"Qual è l'unità monetaria della Gran Bretagna?";;;Dollaro|Peseta|Rand

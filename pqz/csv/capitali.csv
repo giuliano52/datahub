@@ -1,0 +1,196 @@
+question;correct_answer;wrong_answer;free_response ;difficult_level;tags
+Afghanistan ;Kabul ;;;2;Asia
+Albania ;Tirana ;;;2;Europa
+Algeria ;Algeri ;;;2;Africa
+Andorra ;Andorra la Vella ;;;2;Europa
+Angola ;Luanda ;;;2;Africa
+Antigua e Barbuda;Saint John's ;;;2;America Centrale
+Arabia Saudita ;Riyad ;;;2;Asia
+Argentina ;Buenos Aires ;;;2;Sud America
+Armenia ;Yerevan ;;;2;Asia
+Australia ;Canberra ;;;2;Oceania
+Austria ;Vienna ;;;2;Europa
+Azerbaigian ;Baku ;;;2;Asia
+Bahamas ;Nassau ;;;2;America Centrale
+Bahrein ;Manama ;;;2;Asia
+Bangladesh ;Dhaka ;;;2;Asia
+Barbados ;Bridgetown ;;;2;America Centrale
+Belgio ;Bruxelles ;;;2;Europa
+Belize ;Belmopan ;;;2;America Centrale
+Benin ;Porto-Novo ;;;2;Africa
+Bhutan ;Thimphu ;;;2;Asia
+Bielorussia ;Minsk ;;;2;Europa
+Birmania|Myanmar;Naypyidaw ;;;2;Asia
+Bolivia ;Sucre ;;;2;Sud America
+Bosnia ed Erzegovina ;Sarajevo ;;;2;Europa
+Botswana ;Gaborone ;;;2;Africa
+Brasile ;Brasilia ;;;2;Sud America
+Brunei ;Bandar Seri Begawan ;;;2;Asia
+Bulgaria ;Sofia ;;;2;Europa
+Burkina Faso ;Ouagadougou ;;;2;Africa
+Burundi ;Bujumbura ;;;2;Africa
+Cambogia ;Phnom Penh ;;;2;Asia
+Camerun ;Yaoundé ;;;2;Africa
+Canada ;Ottawa ;;;2;Nord America
+Capo Verde ;Praia ;;;2;Africa
+Ciad ;N'Djamena ;;;2;Africa
+Cile ;Santiago ;;;2;Sud America
+Cina ;Pechino ;;;2;Asia
+Cipro ;Nicosia ;;;2;Europa
+Città del Vaticano ;Città del Vaticano;;;2;Europa
+Colombia ;Bogotá ;;;2;Sud America
+Comore ;Moroni ;;;2;Africa
+Corea del Nord ;Pyongyang ;;;2;Asia
+Corea del Sud ;Seul ;;;2;Asia
+Costa d'Avorio ;Yamoussoukro ;;;2;Africa
+Costa Rica ;San José ;;;2;America Centrale
+Croazia ;Zagabria ;;;2;Europa
+Cuba ;L'Avana ;;;2;America Centrale
+Danimarca ;Copenaghen ;;;2;Europa
+Dominica ;Roseau ;;;2;America Centrale
+Ecuador ;Quito ;;;2;Sud America
+Egitto ;Il Cairo ;;;2;Africa
+El Salvador ;San Salvador ;;;2;America Centrale
+Emirati Arabi Uniti ;Abu Dhabi ;;;2;Asia
+Eritrea ;Asmara ;;;2;Africa
+Estonia ;Tallinn ;;;2;Europa
+Etiopia ;Addis Abeba ;;;2;Africa
+Figi ;Suva ;;;2;Oceania
+Filippine ;Manila ;;;2;Asia
+Finlandia ;Helsinki ;;;2;Europa
+Francia ;Parigi ;;;1;Europa
+Gabon ;Libreville ;;;2;Africa
+Gambia ;Banjul ;;;2;Africa
+Georgia ;Tbilisi ;;;2;Asia
+Germania ;Berlino ;;;1;Europa
+Ghana ;Accra ;;;2;Africa
+Giamaica ;Kingston ;;;2;America Centrale
+Giappone ;Tokyo ;;;2;Asia
+Gibuti ;Gibuti ;;;2;Africa
+Giordania ;Amman ;;;2;Asia
+Grecia ;Atene ;;;1;Europa
+Grenada ;Saint George's ;;;2;America Centrale
+Guatemala ;Città del Guatemala ;;;2;America Centrale
+Guinea ;Conakry ;;;2;Africa
+Guinea Equatoriale ;Malabo ;;;2;Africa
+Guinea-Bissau ;Bissau ;;;2;Africa
+Guyana ;Georgetown ;;;2;Sud America
+Haiti ;Port-au-Prince ;;;2;America Centrale
+Honduras ;Tegucigalpa ;;;2;America Centrale
+India ;Nuova Delhi ;;;2;Asia
+Indonesia ;Giakarta ;;;2;Asia
+Iran ;Teheran ;;;2;Asia
+Iraq ;Baghdad ;;;2;Asia
+Irlanda ;Dublino ;;;2;Europa
+Islanda ;Reykjavík ;;;2;Europa
+Isole Marshall ;Majuro ;;;2;Oceania
+Isole Salomone ;Honiara ;;;2;Oceania
+Israele ;Gerusalemme;;;2;Asia
+Italia ;Roma ;;;1;Europa
+Kazakistan ;Astana ;;;2;Asia
+Kenya ;Nairobi ;;;2;Africa
+Kirghizistan ;Bishkek ;;;2;Asia
+Kiribati ;Bairiki ;;;2;Oceania
+Kuwait ;Madinat al-Kuwait ;;;2;Asia
+Laos ;Vientiane ;;;2;Asia
+Lesotho ;Maseru ;;;2;Africa
+Lettonia ;Riga ;;;2;Europa
+Libano ;Beirut ;;;2;Asia
+Liberia ;Monrovia ;;;2;Africa
+Libia ;Tripoli ;;;2;Africa
+Liechtenstein ;Vaduz ;;;2;Europa
+Lituania ;Vilnius ;;;2;Europa
+Lussemburgo ;Lussemburgo ;;;2;Europa
+Macedonia ;Skopje ;;;2;Europa
+Madagascar ;Antananarivo ;;;2;Africa
+Malawi ;Lilongwe ;;;2;Africa
+Maldive ;Malé ;;;2;Asia
+Malesia ;Kuala Lumpur ;;;2;Asia
+Mali ;Bamako ;;;2;Africa
+Malta ;La Valletta ;;;2;Europa
+Marocco ;Rabat ;;;2;Africa
+Mauritania ;Nouakchott ;;;2;Africa
+Mauritius ;Port Louis ;;;2;Africa
+Messico ;Città del Messico ;;;2;America Centrale
+Micronesia ;Palikir ;;;2;Oceania
+Moldavia ;Chisinau ;;;2;Europa
+Monaco ;Monaco (città-stato) ;;;2;Europa
+Mongolia ;Ulan Bator ;;;2;Asia
+Montenegro ;Podgorica ;;;2;Europa
+Mozambico ;Maputo ;;;2;Africa
+Namibia ;Windhoek ;;;2;Africa
+Nauru ;Yaren (sede politica) ;;;2;Oceania
+Nepal ;Kathmandu ;;;2;Asia
+Nicaragua ;Managua ;;;2;America Centrale
+Niger ;Niamey ;;;2;Africa
+Nigeria ;Abuja ;;;2;Africa
+Norvegia ;Oslo ;;;2;Europa
+Nuova Zelanda ;Wellington ;;;2;Oceania
+Oman ;Mascate ;;;2;Asia
+Paesi Bassi ;Amsterdam ;;;1;Europa
+Pakistan ;Islamabad ;;;2;Asia
+Palau ;Ngerulmud ;;;2;Oceania
+Panamá ;Panamá ;;;2;America Centrale
+Papua Nuova Guinea ;Port Moresby ;;;2;Oceania
+Paraguay ;Asunción ;;;2;Sud America
+Perù ;Lima ;;;2;Sud America
+Polonia ;Varsavia ;;;2;Europa
+Portogallo ;Lisbona ;;;1;Europa
+Qatar ;Doha ;;;2;Asia
+RD del Congo ;Kinshasa ;;;2;Africa
+Regno Unito ;Londra ;;;1;Europa
+Rep. Centrafricana ;Bangui ;;;2;Africa
+Rep. del Congo ;Brazzaville ;;;2;Africa
+Rep. Dominicana ;Santo Domingo ;;;2;America Centrale
+Repubblica Ceca;Praga ;;;2;Europa
+Romania ;Bucarest ;;;2;Europa
+Ruanda ;Kigali ;;;2;Africa
+Russia ;Mosca ;;;1;Europa|Asia
+Saint Kitts e Nevis ;Basseterre ;;;2;America Centrale
+Saint Vincent e Grenadine ;Kingstown ;;;2;America Centrale
+Samoa ;Apia ;;;2;Oceania
+San Marino ;Città di San Marino ;;;2;Europa
+Santa Lucia ;Castries ;;;2;America Centrale
+São Tomé e Príncipe ;São Tomé ;;;2;Africa
+Senegal ;Dakar ;;;2;Africa
+Serbia ;Belgrado ;;;2;Europa
+Seychelles ;Port Victoria ;;;2;Africa
+Sierra Leone ;Freetown ;;;2;Africa
+Singapore ;Singapore ;;;2;Asia
+Siria ;Damasco ;;;2;Asia
+Slovacchia ;Bratislava ;;;2;Europa
+Slovenia ;Lubiana ;;;2;Europa
+Somalia ;Mogadiscio ;;;2;Africa
+Spagna ;Madrid ;;;2;Europa
+Sri Lanka ;Sri Jayewardanapura Kotte ;;;2;Asia
+Stati Uniti ;Washington D.C. ;;;2;Nord America
+Sudafrica|Sud Africa;"Pretoria amministrativa; Città del Capo legislativa; e Bloemfontein giudiziaria ";;;2;Africa
+Sudan ;Khartum ;;;2;Africa
+Sudan del Sud ;Juba ;;;2;Africa
+Suriname ;Paramaribo ;;;2;Sud America
+Svezia ;Stoccolma ;;;2;Europa
+Svizzera ;Berna ;;;2;Europa
+Swaziland ;"Mbabane amministrativa e giudiziaria; e Lobamba legislativa ";;;2;Africa
+Tagikistan ;Dushanbe ;;;2;Asia
+Taiwan;Taipei ;;;2;Asia
+Tanzania ;Dodoma ;;;2;Africa
+Thailandia ;Bangkok ;;;2;Asia
+Timor Est ;Dili ;;;2;Asia
+Togo ;Lomé ;;;2;Africa
+Tonga ;Nuku'alofa ;;;2;Oceania
+Trinidad e Tobago ;Port of Spain ;;;2;Sud America
+Tunisia ;Tunisi ;;;2;Africa
+Turchia ;Ankara ;;;2;Asia|Europe
+Turkmenistan ;Ashgabat ;;;2;Asia
+Tuvalu ;Funafuti ;;;2;Oceania
+Ucraina ;Kiev ;;;2;Europa
+Uganda ;Kampala ;;;2;Africa
+Ungheria ;Budapest ;;;2;Europa
+Uruguay ;Montevideo ;;;2;Sud America
+Uzbekistan ;Tashkent ;;;2;Asia
+Vanuatu ;Port Vila ;;;2;Oceania
+Venezuela ;Caracas ;;;2;Sud America
+Vietnam ;Hanoi ;;;2;Asia
+Yemen ;San'a ;;;2;Asia
+Zambia ;Lusaka ;;;2;Africa
+Zimbabwe ;Harare ;;;2;Africa
