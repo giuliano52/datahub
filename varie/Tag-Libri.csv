@@ -63,9 +63,10 @@ ID,TAG_inglese,TAG_Italiano,Tag_Padre,Note
 61,GD: Library_Various,,Other-tags,
 62,GD: Main_Library,,Other-tags,
 63,GD: qualità  ebook 1/5,,Other-tags,
-68,GD: Latex_src,,Other-tags,Libri con sorgente Latex
+68,GD: src,,Other-tags,Libri con sorgente
 65,mithology,mitologia,Non-Fiction,
 66,Travel,Viaggi,Non-Fiction,
 67,Short Stories,Racconti,,
 64,ancient history,storia antica,History,
 68,Humor,Humor,,
+80,Food Science,Scienza Alimentare,Science and Technics,
