@@ -4,7 +4,7 @@
 /*
  * Usage:
  *      ods2csv-image-quiz.php uno.ods#mappe
- * come ods2csv.php solo che genera il campo 'question' a partire dalle immagini in img1 img2 img3 img4 img5
+ * come ods2csv.php solo che genera il campo 'question' a partire dalle immagini in img1 img2 img3 img4 img5 ...
  * 
  * Deve essere abilitato in php.ini
  * extension=zip.so
@@ -96,7 +96,7 @@ $output_keys = array(
     'if_wrong',
     'tags'
 );
-$image_tags = array(
+$image_tags_DELETE = array(
 	'img1',
 	'img2',
 	'img3',
@@ -108,17 +108,27 @@ $index = 0;
 
 
 foreach ($a_in as $single_quiz) {
+	
     $out[$index] = array();
 	
 	// genero la domanda in base alle colonne img riempite
+	
 	$out[$index]['question'] = '';
 	for ($i=1;$i<10;$i++) {
 		$nome_colonna = 'img'.$i;
 		if(isset($single_quiz[$nome_colonna]) && !empty($single_quiz[$nome_colonna])) {
-			$out[$index]['question'] .= '<img src="'.$single_quiz[$nome_colonna].'" height="300">|';
+			$out[$index]['question'] .= '<img src="'.$single_quiz[$nome_colonna].'" height="300">';
+			// se è impostato il campo 'caption' inserisco la didascalia
+			if(isset($single_quiz['caption'])) {
+				$out[$index]['question'] .= '<div style="text-align: center;">'.$single_quiz['caption'].'</div>';
+				}
+		$out[$index]['question'] .= '|';
 		}
+			
+		
 		
 	}
+
     
 	// riempio gli altri campi dal file odt
 	foreach ($output_keys as $single_key) {
