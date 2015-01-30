@@ -87,7 +87,7 @@ $csv_file = new csv_gd($output_file);
 // output only selected keys
 $output_keys = array(
     'id',
-//    'question',
+    'question',
     'correct_answer',
     'wrong_answer',
     'difficult_level',
@@ -107,16 +107,30 @@ $image_tags_DELETE = array(
 $index = 0;
 
 
+
+
+
 foreach ($a_in as $single_quiz) {
+
+	$out[$index] = array();
 	
-    $out[$index] = array();
+	// riempio i altri campi dal file odt
+	foreach ($output_keys as $single_key) {
+        $out[$index][$single_key] = isset($single_quiz[$single_key]) ? $single_quiz[$single_key] : "";
+    }
 	
+    	
 	// genero la domanda in base alle colonne img riempite
 	
-	$out[$index]['question'] = '';
+	if(isset($single_quiz['img1']) && !empty($single_quiz['img1'])) {
+		// se sono presenti le immagini svuoto il campo 'question' perché viene riempito dopo nel ciclo for
+		$out[$index]['question'] = '' ;
+	}
+	
 	for ($i=1;$i<10;$i++) {
 		$nome_colonna = 'img'.$i;
 		if(isset($single_quiz[$nome_colonna]) && !empty($single_quiz[$nome_colonna])) {
+			$out[$index]['question'] .= isset($single_quiz['question'])? $single_quiz['question'].'<br>' : '';
 			$out[$index]['question'] .= '<img src="'.$single_quiz[$nome_colonna].'" height="300">';
 			// se è impostato il campo 'caption' inserisco la didascalia
 			if(isset($single_quiz['caption'])) {
@@ -130,10 +144,7 @@ foreach ($a_in as $single_quiz) {
 	}
 
     
-	// riempio gli altri campi dal file odt
-	foreach ($output_keys as $single_key) {
-        $out[$index][$single_key] = isset($single_quiz[$single_key]) ? $single_quiz[$single_key] : "";
-    }
+
 	
     $index++;
 }

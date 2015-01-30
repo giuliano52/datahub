@@ -1,4 +1,8 @@
-#Data Directory
+PQZ data
+========
+
+Data Directory
+--------------
 
 - bin : all program to genertate csv file ( or to convert from other sources to csv)
 - conf : all configuration (ex congratulation list urls file, .... ) 
@@ -6,10 +10,12 @@
 - ini : all quiz configuration
 - src : all source to generate csv file (e.g. ods file ... )
 
-#CSV Format:
+CSV Format
+------------
 
-##Campi
-* sono obbligatori
+Campi
+~~~~~
+
 - id                    : unique id of the question
 - question *  			: La domanda come viene presentata (più domande possono essere separate da |) 
 - correct_answer *		: La risposta corretta (in caso di più risposte corrette separale da | ) 
@@ -20,11 +26,31 @@
 - if_correct			: testo descrittivo che viene mostrato se la risposta è corretta
 - if_wrong				: testo descrittivo che viene mostrato se la risposta è sbagliata 
 
+(* obbligatori)
 
-# Programmi utili
+Programmi utili
+---------------
 
-## Convertire da OTD a CSV
+Convertire da OTD a CSV
+~~~~~~~~~~~~~~~~~~~~~~~
+
 bisogna abilitare in php.ini: (  extension=zip.so ) 
+
+
+     php bin/convert-to-csv-php/ods2csv-image-quiz.php src/animali.ods
+     mv src/*.csv csv/
+
+il file otd può avere le colonne _img1_ _img2_ .... _img9_ e verranno fatte le domande con le immagini
+se è presente la colonna _caption_ in questo dopo la domanda verrà aggiunto anche una didascalia
+
+per semplicità le colonne possono essere riempite con degli zeri (0) non verranno inserite nel campo question 
+(può essere utile per la visualizzazione in openoffice)  
+	 
+	 
+	 
+	 
+	 php bin/convert-to-csv-php/ods2csv-image-quiz.php src/animali.ods
+
 
      php bin/convert-to-csv-php/ods2csv.php src/strumenti-musicali.ods
      mv src/*.csv csv/
@@ -34,7 +60,7 @@ bisogna abilitare in php.ini: (  extension=zip.so )
 oppure se si ha un file odt con le colonne img1 img2 .... img9 genera il campo question con solo le immagini. 
 per semplicità le colonne possono essere riempite con degli zeri (0) non verranno inserite nel campo question 
 (può essere utile per la visualizzazione in openoffice)  
-In questo particolare caso il file odt può non avere la colonna 'question'   
+
 	 
      php bin/convert-to-csv-php/ods2csv-image-quiz.php src/animali.ods
      mv src/*.csv csv/
