@@ -1,0 +1,24 @@
+= Articoli
+
+== with or without 'the'
+
+|=======================
+|			|The				| Without the
+//----------|-------------------|----------------
+| water		|river				|lake
+|			| see and ocean		|
+|			|channel and strits	|
+|			|gulf and bays		|
+|-------	|------------		|
+|			|group of island	| single island
+|			|group of mountain	| single mountain
+|			|group of country	| single country
+|			|					| cities
+|			|					| states
+|			|					| planets
+|=======================
+
+a few / few 	people live in Saahra Desert
+a few: un po' di
+few: poche
+
