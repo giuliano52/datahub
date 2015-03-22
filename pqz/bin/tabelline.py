@@ -17,7 +17,7 @@ def run():
 
 	fieldnames = ['id', 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
 	with open('../csv/tabelline.csv', 'w') as csvfile:
-		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+		writer = csv.DictWriter(csvfile, fieldnames=fieldnames,delimiter=';')
 		writer.writeheader()
 		for i1 in range(0,11):
 			for i2 in range(0,11):
