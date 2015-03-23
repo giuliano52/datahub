@@ -2,22 +2,19 @@
 # -*- coding: utf-8 -*-
 # gd 20150301
 """
-Template for python
+Genera un file quiz per le tabelline
 """
-
 
 import argparse
 import csv
 
 					
 
-
-
 def run():
 
-	#fieldnames = ['id', 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
-	fieldnames = [ 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
-	with open('../csv/tabelline.csv', 'w') as csvfile:
+	fieldnames = [ 'question','id','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
+	#fieldnames = [ 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
+	with open(args.output, 'w') as csvfile:
 		writer = csv.DictWriter(csvfile, fieldnames=fieldnames,delimiter=';')
 		writer.writeheader()
 		for i1 in range(0,11):
@@ -29,6 +26,8 @@ def main():
 	
 	global args
 	parser = argparse.ArgumentParser(description='Genera il file csv con le tabelline')
+	parser.add_argument('-o','--output', help='output file', default='csv/tabelline.csv')
+		
 	args = parser.parse_args()
 
 	run()
