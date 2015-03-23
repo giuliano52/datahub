@@ -15,7 +15,8 @@ import csv
 
 def run():
 
-	fieldnames = ['id', 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
+	#fieldnames = ['id', 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
+	fieldnames = [ 'question','correct_answer','wrong_answer','difficult_level','response_type','tags','if_correct','if_wrong']
 	with open('../csv/tabelline.csv', 'w') as csvfile:
 		writer = csv.DictWriter(csvfile, fieldnames=fieldnames,delimiter=';')
 		writer.writeheader()
