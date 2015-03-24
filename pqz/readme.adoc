@@ -1,8 +1,7 @@
-PQZ data
-========
+= PQZ data
 
-Data Directory
---------------
+== Data Directory
+
 
 - bin : all program to genertate csv file ( or to convert from other sources to csv)
 - conf : all configuration (ex congratulation list urls file, .... ) 
@@ -10,11 +9,10 @@ Data Directory
 - ini : all quiz configuration
 - src : all source to generate csv file (e.g. ods file ... )
 
-CSV Format
-------------
+== CSV Format
 
-Campi
-~~~~~
+
+=== Campi
 
 - id                    : unique id of the question
 - question *  			: La domanda come viene presentata (più domande possono essere separate da |) 
@@ -28,14 +26,16 @@ Campi
 
 (* obbligatori)
 
-Programmi utili
----------------
+== File ini
 
-Convertire da OTD a CSV
-~~~~~~~~~~~~~~~~~~~~~~~
+il file default.ini continene tutti i campi processati per i file.ini con le configurazioni
+
+== Programmi utili
+
+
+=== Convertire da OTD a CSV
 
 bisogna abilitare in php.ini: (  extension=zip.so ) 
-
 
      php bin/convert-to-csv-php/ods2csv-image-quiz.php src/animali.ods
      mv src/*.csv csv/
@@ -46,16 +46,13 @@ se è presente la colonna _caption_ in questo dopo la domanda verrà aggiunto anch
 per semplicità le colonne possono essere riempite con degli zeri (0) non verranno inserite nel campo question 
 (può essere utile per la visualizzazione in openoffice)  
 	 
-	 
-	 
-	 
 	 php bin/convert-to-csv-php/ods2csv-image-quiz.php src/animali.ods
 
 
      php bin/convert-to-csv-php/ods2csv.php src/strumenti-musicali.ods
      mv src/*.csv csv/
 
-## File ODT con immagini
+=== File ODT con immagini
 
 oppure se si ha un file odt con le colonne img1 img2 .... img9 genera il campo question con solo le immagini. 
 per semplicità le colonne possono essere riempite con degli zeri (0) non verranno inserite nel campo question 
@@ -66,4 +63,4 @@ per semplicità le colonne possono essere riempite con degli zeri (0) non verrann
      mv src/*.csv csv/
 
 
-    
+  
